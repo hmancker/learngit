@@ -5,3 +5,4 @@ wo gan ni da ba
 Creating a new branch is quick and simple
 
 add merge
+wo gan
